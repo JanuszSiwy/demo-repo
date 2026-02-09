@@ -6,4 +6,4 @@ Dokument edytowany lokalnie
 
 Kolejna edycja lokalna
 
-Zmieniam zdalnie dokument
+Zmieniam zdalnie dokument 1
